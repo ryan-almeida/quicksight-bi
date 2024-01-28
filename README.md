@@ -4,12 +4,9 @@
 
 This project is an example that was built alongside the tutorials offered from AWS Skill Builders (www.aosnote.com) that teaches you how to use a BI Tool such as Amazon Quicksight to ingest and prepare data, create visualizations, add filters, create dashboards, and ultimatly gain insight. This project allows you to appreciate the strength of using a pre-built dashbaord tool, such as:
 
-1. Repeatability, and the ability to provision pre-configured environments, offering consistency
-2. Decreasing Risk due to human error which may lead to uneccessary troubleshooting and debugging
-3. Increasing Security and Faster Recovery in the event of an unecpected attack
-4. Faster deployment and execution due to pre-configured enviroments
-5. Greater control and situational awareness due to deployments from pre-configured environments
-6. Financial savings due to ability to deploy and destroy resources on demand 
+1. Create a bar chart
+2. A geospatial chart
+3. A Sankey Diagram
 
 In particular, this project will be deplyoed by completing the following steps:
 
