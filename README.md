@@ -1,9 +1,11 @@
 # Build Dashboards with Amazon QuickSight 
 
-## Project Description
-Analyze and visualize flight data using Amazon QuickSight and practice using Business Intelligence (BI) Tools on the cloud to gain insights about your data.This project is an example that was built alongside the tutorials offered from AWS Skill Builders (https://explore.skillbuilder.aws/learn/course/external/view/elearning/16904/building-bi-dashboards-with-amazon-quicksight) that teaches you how to use a BI Tool such as Amazon Quicksight to ingest and prepare data, create visualizations, add filters, create dashboards, and ultimatly gain insights using data. 
+## Project Description:
+This project allows you to analyze and visualize flight data using Amazon QuickSight, and practice using Business Intelligence (BI) Tools to gain insights about your data. 
 
-This project allows you to appreciate the strength of using a pre-built dashbaord tool such as AWS Quicksight. In this project you use QuickSight to create: 
+The project is an example that was built alongside the tutorials offered from AWS Skill Builders (https://explore.skillbuilder.aws/learn/course/external/view/elearning/16904/building-bi-dashboards-with-amazon-quicksight) that teaches you how to use QuickSight to ingest and prepare data, create visualizations, add filters, create dashboards, and ultimatly gain insights using data. 
+
+QuickSight allows you to appreciate the strength of using a pre-built dashboard tool functionality. In this project you use QuickSight to create: 
 
 1. A bar chart
 2. A geospatial chart
